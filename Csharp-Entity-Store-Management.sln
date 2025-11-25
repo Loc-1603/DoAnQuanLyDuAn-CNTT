@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp-Entity-Store-Management", "Csharp-Entity-Store-Management\Csharp-Entity-Store-Management.csproj", "{3EE69E5F-6B41-4920-AB9C-FBFA8B86CFCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EE69E5F-6B41-4920-AB9C-FBFA8B86CFCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EE69E5F-6B41-4920-AB9C-FBFA8B86CFCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EE69E5F-6B41-4920-AB9C-FBFA8B86CFCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EE69E5F-6B41-4920-AB9C-FBFA8B86CFCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28B44D8A-00F8-4227-8D70-B8629DD6A1B6}
+	EndGlobalSection
+EndGlobal
