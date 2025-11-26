@@ -11,7 +11,7 @@
 * Quản lý danh mục sản phẩm.
 * Quản lý nhà cung cấp.
 * Quản lý nhập sản phẩm.
-* Giao diện bán hàng.
+* Chức năng bán hàng(thêm sản phẩm, tìm sản phẩm, thanh toán).
 * Xem chi tiết hoá đơn.
 * Xuất hoá đơn dạng pdf.
 * Nhập xuất dữ liệu qua file excel.
